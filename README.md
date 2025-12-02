@@ -16,4 +16,8 @@ Algorithm for finding the vertex of a multidimensional polytope of feasible solu
 ## Citation
 If you use this software, please cite it as below.
 
-> _Coming soon_
+[EN]
+> Zhulev A.E., Sokolinsky L.B., Sokolinskaya I.M. On computing the vertex of the polytope of feasible solutions of a system of linear constraints // Bulletin of the South Ural State University. Series: Computational Mathematics and Computer Science. 2025. Vol. 14, No. 3. P. 5-27. DOI: 10.14529/cmse250301.
+
+[RU]
+> Жулев А.Э., Соколинский Л.Б., Соколинская И.М. О вычислении вершины многогранника допустимых решений системы линейных ограничений // Вестник Южно-Уральского государственного университета. Серия: Вычислительная математика и информатика. 2025. Т. 14, № 3. С. 5-27. DOI: 10.14529/cmse250301.
